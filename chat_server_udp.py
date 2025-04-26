@@ -1,4 +1,3 @@
-# 导入必要的网络编程库
 import socket  # UDP通信核心库
 import threading  # 实现多线程并发处理
 from tkinter import (  # 图形界面库

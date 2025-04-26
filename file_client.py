@@ -1,8 +1,7 @@
-# 导入必要的库
 from socket import *  # 网络通信库
 
 # 配置服务器地址和端口
-SERVER_IP = 'localhost'   # 若服务器在远程，需替换为实际IP
+SERVER_IP = 'localhost'   
 SERVER_PORT = 12000
 
 # 创建TCP套接字并连接服务器

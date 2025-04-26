@@ -1,4 +1,3 @@
-# 导入必要的库
 from socket import *  # 网络通信库
 import os             # 文件路径和操作系统相关功能
 

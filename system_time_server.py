@@ -1,5 +1,4 @@
 from socket import *
-import time
 import datetime
 
 # 1. 创建TCP套接字

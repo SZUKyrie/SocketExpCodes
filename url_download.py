@@ -23,7 +23,7 @@ def download_url():
         file_size = len(response.content)
         
         # 输出结果
-        print(f"The requested URL: {response.url}")  # 实际请求的URL（可能被重定向）
+        print(f"The requested URL: {response.url}") 
         print(f"The saved file: {filename}")
         print(f"The requested file size: {file_size} bytes")
 
